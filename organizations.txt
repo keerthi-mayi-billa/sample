@@ -1,4 +1,4 @@
-tcs
-eficens
+TCS
+Eficens 
 Infosys
-wipro
+Wipro
