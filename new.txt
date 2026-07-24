@@ -1,0 +1,6 @@
+Phase1:
+	complete Authentication
+Phase2:
+	start cloud course 
+Phase3:
+	practice 
